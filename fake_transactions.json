@@ -1,0 +1,16 @@
+[
+  {
+    "transactionId": "FAKE_TXN_1741424440765",
+    "userId": "user123",
+    "amount": 100,
+    "status": "PENDING",
+    "paymentUrl": "https://fake-upi-payment.com/pay/FAKE_TXN_1741424440765"
+  },
+  {
+    "transactionId": "FAKE_TXN_1741424648222",
+    "userId": "user456",
+    "amount": 100,
+    "status": "PENDING",
+    "paymentUrl": "https://fake-upi-payment.com/pay/FAKE_TXN_1741424648222"
+  }
+]
